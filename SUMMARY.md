@@ -1,6 +1,6 @@
 # Table of contents
 
-* [한권으로 끝내는 파이썬 / 딥러닝](README.md)
+* [한권으로 끝내는 파이썬 & 딥러닝](README.md)
 * [1. 기본 용어의 이해](1./README.md)
   * [1.1.	인공지능\(Artificial Intelligence\) 시대](1./1.1.-artificial-intelligence/README.md)
     * [1.1.1. 	CPU와 GPU의 차이](1./1.1.-artificial-intelligence/1.1.1.-cpu-gpu.md)
@@ -25,4 +25,8 @@
     * [1.6.10. 	싸이킷런\(Scikit-learn\)\(Sklearn\)](1./1.6./untitled-9.md)
     * [1.6.11. 	CUDA](1./1.6./untitled-8.md)
     * [1.6.12. 	파이썬 표준 내장 라이브러리](1./1.6./untitled-7.md)
+  * [1.7.	머신러닝 알고리즘](1./1.7./README.md)
+    * [1.7.1. 	지도 학습 \(Supervised Learning\)](1./1.7./1.7.1.-supervised-learning.md)
+    * [1.7.2. 	비지도 학습 \(Unsupervised learning\)](1./1.7./1.7.2.-unsupervised-learning.md)
+    * [1.7.3. 	강화 학습\(Reinforcement Learning\)](1./1.7./1.7.3.-reinforcement-learning.md)
 
