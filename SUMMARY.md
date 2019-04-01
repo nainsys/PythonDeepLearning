@@ -12,5 +12,6 @@
   * [1.3.	아나콘다\(Anaconda\)](1./1.2.-python.md)
   * [1.4.	텐서플로\(Tensorflow\)](1./1.4.-tensorflow.md)
   * [1.5.	케라스\(Keras\)](1./1.5.-keras.md)
-  * [1.6.	학습에 필요한 중요한 도구와 라이브러리들](1./1.6..md)
+  * [1.6.	학습에 필요한 중요한 도구와 라이브러리들](1./1.6./README.md)
+    * [1.1.1. 	주피터 노트북\(Jupyter Notebook\)](1./1.6./1.1.1.-jupyter-notebook.md)
 
