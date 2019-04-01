@@ -1,6 +1,7 @@
 # Table of contents
 
 * [한권으로 끝내는 파이썬 & 딥러닝](README.md)
+* [서론](undefined.md)
 * [1. 기본 용어의 이해](1./README.md)
   * [1.1.	인공지능\(Artificial Intelligence\) 시대](1./1.1.-artificial-intelligence/README.md)
     * [1.1.1. 	CPU와 GPU의 차이](1./1.1.-artificial-intelligence/1.1.1.-cpu-gpu.md)
