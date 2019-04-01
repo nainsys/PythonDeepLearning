@@ -29,4 +29,5 @@
     * [1.7.1. 	지도 학습 \(Supervised Learning\)](1./1.7./1.7.1.-supervised-learning.md)
     * [1.7.2. 	비지도 학습 \(Unsupervised learning\)](1./1.7./1.7.2.-unsupervised-learning.md)
     * [1.7.3. 	강화 학습\(Reinforcement Learning\)](1./1.7./1.7.3.-reinforcement-learning.md)
+* [2.	개발 환경설정](2..md)
 
