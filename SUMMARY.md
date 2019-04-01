@@ -8,6 +8,6 @@
     * [1.1.3. 	깃허브\(GitHub\)](1./1.1.-artificial-intelligence/1.1.3.-github.md)
     * [1.1.4. 	위키 Wiki](1./1.1.-artificial-intelligence/1.1.4.-wiki.md)
     * [1.1.5  딥러닝 프레임워크 소개](1./1.1.-artificial-intelligence/1.1.5.md)
-  * [1.2 파이썬\(Python\)](1./1.2-python.md)
+  * [1.2  파이썬\(Python\)](1./1.2-python.md)
   * [1.3.	아나콘다\(Anaconda\)](1./1.2.-python.md)
 
