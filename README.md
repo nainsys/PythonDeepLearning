@@ -10,7 +10,7 @@ description: 서론
 
 
 
-이 GitBook 문서는 GitHub에서도 읽을 수 있습니다.
+이 문서는 [GitBook](https://sdc-james.gitbook.io/onebook/) 과 [GitHub](https://github.com/nainsys/PythonDeepLearning) 에서 읽을 수 있습니다.
 
 GitBook URL :  [https://sdc-james.gitbook.io/onebook/](https://sdc-james.gitbook.io/onebook/)
 
