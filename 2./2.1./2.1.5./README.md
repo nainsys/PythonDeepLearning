@@ -7,13 +7,11 @@
 
 {% embed url="https://www.jetbrains.com/pycharm/download/\#section=windows" %}
 
-
-
 접속하시면 아래와 같은 화면의 다운로드 페이지가 나옵니다. PyCharm은 유료인 Professional과 무료인 Community가 있습니다. 무료로 제공되는 Community 버전이 있고, 기능이 추가돼 유료로 제공되는 professional 버전이 있습니다. Professional은 Web개발 환경이나 Database 관련 등의 기능을 추가로 제공하지만, 관련된 기능이 없는 Community 무료 버전도 충분한 기능이 제공됩니다.
 
 ![](../../../.gitbook/assets/2150-1.png)
 
-다운로드 후 설치를 진행합니다.
+다운로드 후 제가 테스트 했던 때의 최신 버전인  'pycharm-community-2018.3.3.exe'를 실행하여 설치를 진행합니다.
 
 ![](../../../.gitbook/assets/2150-2.png)
 
