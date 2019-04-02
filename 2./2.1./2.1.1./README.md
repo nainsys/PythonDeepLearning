@@ -39,7 +39,7 @@ Anaconda Prompt를 선택하여 실행한 후 “conda search python”을 입�
 (base)C:\Users\사용자계정명>conda search python
 ```
 
-![](../../../.gitbook/assets/21110.png)
+![](../../../.gitbook/assets/21110%20%281%29.png)
 
 현재 \(base\) 환경에서 사용중인 파이썬 버전을 확인하려면 다음 명령을 실행합니다.
 
@@ -55,5 +55,5 @@ Pip를 최신 버전으로 업그레이드 하려면 다음 명령을 실행합�
 (base) C:\Users\사용자계정>python –m pip install –-upgrade pip  
 ```
 
-![](../../../.gitbook/assets/21111.png)
+![](../../../.gitbook/assets/21111%20%281%29.png)
 
