@@ -89,7 +89,7 @@
     * [3.10.3. 	딕셔너리\(Dictionary\)](3./3.10.-sequence/3.10.3.-dictionary.md)
   * [3.11.	Date & Time](3./3.11.-date-and-time.md)
   * [3.12.	파이썬 에러처리](3./3.12..md)
-* [4. NumPy & SciPy](4.-numpy-and-scipy.md)
+* [4. NumPy & SciPy & Matplotlib](4.-numpy-and-scipy.md)
 * [5. 머신러닝 & 딥러닝](4.-and.md)
 * [6. 간단한 챗봇 만들기](5..md)
 * [7. 영상 처리](7..md)
