@@ -6,7 +6,7 @@
 
 TensorFlow는 데이터의 기본 단위로 취급할 수 있는 Tensors 개념을 사용합니다. 텐서는 다차원 배열을 통해 표현할 수있는 N 차원 벡터로 정의할 수 있습니다.
 
-![](../.gitbook/assets/54001.jpg)
+![](../../.gitbook/assets/54001.jpg)
 
 TensorFlow는 데이터 플로우 그래프\(Data Flow Graph\) 방식을 사용합니다.
 
@@ -38,7 +38,7 @@ TensorFlow에서는 텐서가 데이터의 중심 단위 임에 유의해야 합
 
 아래 주어진 그림으로 이러한 관계를 설명해 보겠습니다.
 
-![](../.gitbook/assets/54002.png)
+![](../../.gitbook/assets/54002.png)
 
 여기서, add는 덧셈 연산을 나타내는 노드입니다.  a와 b는 입력 텐서이고 c는 결과 텐서입니다.
 
