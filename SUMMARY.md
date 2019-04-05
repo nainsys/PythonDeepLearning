@@ -106,6 +106,8 @@
 * [5. 머신러닝 & 딥러닝](4.-and/README.md)
   * [5.1.	머신러닝 개념 소개](4.-and/5.1./README.md)
     * [5.1.1. 경사하강법\(Gradient Descent \)](4.-and/5.1./5.1.1.-gradient-descent.md)
+    * [5.1.2. 	분류 \(Classification\)](4.-and/5.1./5.1.2.-classification.md)
+    * [5.1.3.	MNIST Dataset 소개](4.-and/5.1./5.1.3.-mnist-dataset.md)
   * [5.2.	딥러닝 개념 소개](4.-and/5.2..md)
   * [5.3.	MNIST Dataset 소개](4.-and/5.3.-mnist-dataset.md)
   * [5.4.	Tensorflow를 사용한 학습](4.-and/5.4.-tensorflow.md)
