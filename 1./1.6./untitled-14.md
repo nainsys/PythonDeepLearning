@@ -1,4 +1,4 @@
-# 1.6.5. 	싸이파이\(SciPy\)
+# 1.6.5.     싸이파이\(SciPy\)
 
   
 SciPy\([https://www.scipy.org/scipylib](https://www.scipy.org/scipylib)\)는 과학 계산용 함수를 모아놓은 파이썬 패키지입니다. 

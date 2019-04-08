@@ -1,4 +1,4 @@
-# 1.1.	인공지능\(Artificial Intelligence\) 시대
+# 1.1.    인공지능\(Artificial Intelligence\) 시대
 
 “인간의 지능을 컴퓨터로 구현한다” 초기에 인공지능을 연구했던 과학자은 인간의 지능과 유사한 특성을 가진 컴퓨터를 만드는 것이었습니다. 인간과 같은 사고력, 지능을 가지고 인간처럼 생각 하는 인공지능\(Artificial Intelligence\)을 일반적으로 ‘AI’라고 합니다.
 

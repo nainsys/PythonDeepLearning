@@ -1,4 +1,4 @@
-# 1.6.6. 	 Matplotlib
+# 1.6.6.      Matplotlib
 
   
 Matplotlib\([https://matplotlib.org/](https://matplotlib.org/)\)은 파이썬의 대표적인 과학 계산용 그래프 라이브러리입니다. 선 그래프, 히스토그램, 산점도 등을 지원하며 출판에 쓸 수 있을 만큼의 고품질 그래프를 그려줍니다.

@@ -1,4 +1,4 @@
-# 1.6.2. 	파이참\(PyCharm\)
+# 1.6.2.     파이참\(PyCharm\)
 
   
 Jetbrain에서 개발한 파이참은 파이썬 프로그램을 쉽게 개발할 수 있도록 하는 IDE\(Integrated Development Environment, 통합 개발 환경\)로 분류됩니다. IDE는 코드 편집기, 디버거, 컴파일러, 인터프리터 등을 포함하고 개발자에게 제공됩니다.
