@@ -122,7 +122,8 @@
     * [5.4.1. 	Keras로 분석한 선형 회귀](4.-and/5.4.-tensorflow/5.4.1.-keras.md)
     * [5.4.2. 	CNN\(Convolutional Neural Network\)](4.-and/5.4.-tensorflow/5.4.2.-cnn-convolutional-neural-network.md)
     * [5.4.3. 	Fashion MNIST with Keras](4.-and/5.4.-tensorflow/5.4.3.-fashion-mnist-with-keras.md)
-  * [5.5.    웹 크롤링](4.-and/5.5.-keras.md)
+  * [5.5.    웹 크롤링](4.-and/5.5.-keras/README.md)
+    * [5.5.1. 	requests와 BeautifulSoup으로 웹 크롤러 만들기](4.-and/5.5.-keras/5.5.1.-requests-beautifulsoup.md)
+    * [5.5.2. 	Selenium으로 웹 크롤러 만들기](4.-and/5.5.-keras/5.5.2.-selenium.md)
 * [6. 간단한 챗봇 만들기](5..md)
-* [7. 영상 처리](7..md)
 
