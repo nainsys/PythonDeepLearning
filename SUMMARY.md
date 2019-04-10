@@ -124,6 +124,5 @@
     * [5.4.3. 	Fashion MNIST with Keras](4.-and/5.4.-tensorflow/5.4.3.-fashion-mnist-with-keras.md)
   * [5.5.    웹 크롤링](4.-and/5.5.-keras/README.md)
     * [5.5.1. 	requests와 BeautifulSoup으로 웹 크롤러 만들기](4.-and/5.5.-keras/5.5.1.-requests-beautifulsoup.md)
-    * [5.5.2. 	Selenium으로 웹 크롤러 만들기](4.-and/5.5.-keras/5.5.2.-selenium.md)
 * [6. 간단한 챗봇 만들기](5..md)
 
