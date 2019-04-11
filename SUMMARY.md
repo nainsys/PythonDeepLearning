@@ -129,5 +129,6 @@
     * [6.1.1. 	KoNLPy: 파이썬 한국어 NLP](5./6.1./6.1.1.-konlpy-nlp.md)
     * [6.1.2. 	단어 임베딩](5./6.1./6.1.2..md)
     * [6.1.3. 	Word2Vec 모델 만들기](5./6.1./6.1.3.-word2vec.md)
-  * [6.2.	ChatterBot 챗봇 만들기](5./6.2.-chatter.md)
+  * [6.2.	ChatterBot 챗봇 만들기](5./6.2.-chatter/README.md)
+    * [6.2.1. 	ChatterBot 설치 및 기본동작](5./6.2.-chatter/6.2.1.-chatterbot.md)
 
