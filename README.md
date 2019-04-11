@@ -16,5 +16,5 @@ description: 서론
 
 GitBook URL :  [https://sdc-james.gitbook.io/onebook/](https://sdc-james.gitbook.io/onebook/)
 
-GitHub URL : [https://github.com/nainsys/PythonDeepLearning](https://github.com/nainsys/PythonDeepLearning)
+GitHub URL : [https://github.com/nainsys/PythonDeepLearning/blob/master/SUMMARY.md](https://github.com/nainsys/PythonDeepLearning/blob/master/SUMMARY.md)
 
