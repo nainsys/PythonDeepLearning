@@ -132,6 +132,5 @@
   * [6.2.	ChatterBot 챗봇 만들기](5./6.2.-chatter/README.md)
     * [6.2.1. 	ChatterBot 설치 및 기본동작](5./6.2.-chatter/6.2.1.-chatterbot.md)
     * [6.2.2. 	ChatterBot 사용법](5./6.2.-chatter/6.2.2.-chatterbot.md)
-  * [6.3.	구글 DialogFlow 챗봇 만들기](5./6.3.-dialogflow/README.md)
-    * [6.3.1. 	DialogFlow Standard 버전 챗봇 만들기](5./6.3.-dialogflow/6.3.1.-dialogflow-standard.md)
+  * [6.3.	구글 DialogFlow 챗봇 만들기](5./6.3.-dialogflow.md)
 
