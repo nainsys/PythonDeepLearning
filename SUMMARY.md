@@ -109,7 +109,7 @@
 * [6. 머신러닝을 위한 파이썬](4..md)
 * [7. 텐서플로 2.x](6.-2.x.md)
 * [8. 딥러닝을 이용한 자연어 처리 입문](7..md)
-* [파이토치로 시작하는 딥 러닝 입문](undefined-2.md)
+* [9. 파이토치로 시작하는 딥 러닝 입문](undefined-2.md)
 * [4. 필수 학습 라이브러리들](4.-numpy-and-scipy/README.md)
   * [4.1 NumPy](4.-numpy-and-scipy/4.1-numpy/README.md)
     * [4.1.1.     Basic Operations](4.-numpy-and-scipy/4.1-numpy/4.1.1.-basic-operations.md)
