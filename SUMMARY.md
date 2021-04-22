@@ -107,6 +107,7 @@
   * [3.13.    파이썬 에러처리](3./3.12..md)
 * [4. 기초수학](4.-1.md)
 * [5. 머신러닝을 위한 파이썬](4..md)
+* [6. 텐서플로 2.x](6.-2.x.md)
 * [4. 필수 학습 라이브러리들](4.-numpy-and-scipy/README.md)
   * [4.1 NumPy](4.-numpy-and-scipy/4.1-numpy/README.md)
     * [4.1.1.     Basic Operations](4.-numpy-and-scipy/4.1-numpy/4.1.1.-basic-operations.md)
