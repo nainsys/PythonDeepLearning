@@ -1,6 +1,6 @@
 # Table of contents
 
-* [한권으로 끝내는 파이썬 & 딥러닝](README.md)
+* [한곳에서 끝내는 파이썬 & 딥러닝](README.md)
 * [문서 작업을 시작하며](undefined.md)
 * [1.    인공지능\(Artificial Intelligence\) 시대](1.1.-artificial-intelligence/README.md)
   * [1.1. 인공지능이란 도대체 무엇인가?](1.1.-artificial-intelligence/1.1.1.md)
